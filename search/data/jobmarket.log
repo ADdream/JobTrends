@@ -1,0 +1,602 @@
+INFO:root:jobmarket initialized at 2020-08-14
+WARNING:root:no master-list, filter-list was not updated
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+INFO:root:Found 1664 indeed results for query=Python
+INFO:root:getting indeed page 0 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=0
+INFO:root:getting indeed page 1 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=50
+INFO:root:getting indeed page 2 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=100
+INFO:root:getting indeed page 3 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=150
+INFO:root:getting indeed page 4 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=200
+INFO:root:getting indeed page 5 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=250
+INFO:root:getting indeed page 6 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=300
+INFO:root:getting indeed page 7 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=350
+INFO:root:jobmarket initialized at 2020-08-14
+WARNING:root:no master-list, filter-list was not updated
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+INFO:root:Found 1664 indeed results for query=Python
+INFO:root:getting indeed page 0 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=0
+INFO:root:getting indeed page 1 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=50
+INFO:root:getting indeed page 2 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=100
+INFO:root:getting indeed page 3 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=150
+INFO:root:getting indeed page 4 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=200
+INFO:root:getting indeed page 5 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=250
+INFO:root:getting indeed page 6 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=300
+INFO:root:getting indeed page 7 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=350
+INFO:root:getting indeed page 8 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=400
+INFO:root:getting indeed page 9 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=450
+INFO:root:getting indeed page 10 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=500
+INFO:root:getting indeed page 11 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=550
+INFO:root:getting indeed page 12 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=600
+INFO:root:getting indeed page 13 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=650
+INFO:root:getting indeed page 14 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=700
+INFO:root:getting indeed page 15 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=750
+INFO:root:getting indeed page 16 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=800
+INFO:root:getting indeed page 17 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=850
+INFO:root:getting indeed page 18 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=900
+INFO:root:getting indeed page 19 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=950
+INFO:root:getting indeed page 20 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1000
+INFO:root:getting indeed page 21 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1050
+INFO:root:getting indeed page 22 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1100
+INFO:root:getting indeed page 23 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1150
+INFO:root:getting indeed page 24 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1200
+INFO:root:getting indeed page 25 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1250
+INFO:root:getting indeed page 26 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1300
+INFO:root:getting indeed page 27 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1350
+INFO:root:getting indeed page 28 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1400
+INFO:root:getting indeed page 29 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1450
+INFO:root:getting indeed page 30 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1500
+INFO:root:getting indeed page 31 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1550
+INFO:root:getting indeed page 32 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1600
+INFO:root:getting indeed page 33 : http://www.indeed.com/jobs?q=Python&l=Austin%2C+TX&radius=100&limit=50&filter=0&start=1650
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting indeed search: 
+INFO:root:jobfunnel monster to pickle running @ 2020-08-14
+INFO:root:Found 663 monster results for query=Python
+INFO:root:getting monster pages 1 to 27 : https://www.monster.com/jobs/search/?q=Python&where=Austin__2C-TX&intcid=skr_navigation_nhpso_searchMain&rad=100&where=Austin__2c-TX&start=27
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting monster search: https://job-openings.monster.com/linux-python-software-tools-automation-engineer-sunnyvale-austin-austin-tx-us-osi-engineering/219505928
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-python-developer-remote-python-java-austin-tx-us-cybercoders/219514303
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-python-django-engineer-austin-tx-us-jobot/219238243
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/sr-backend-engineer-java-ruby-python-golang-austin-tx-us-new-iron/219525642
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-software-developer-austin-180-000-bonus-austin-tx-us-oscar-associates-limited-us/219355824
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/devops-engineer-can-be-remote-python-aws-devops-austin-tx-us-cybercoders/219514299
+INFO:root:delay of 1.20s, getting monster search: https://job-openings.monster.com/senior-python-developer-austin-150-000-bonus-austin-tx-us-oscar-associates-limited-us/219117423
+INFO:root:delay of 1.40s, getting monster search: https://job-openings.monster.com/python-developer-remote-tx-us-jobot/219315823
+INFO:root:delay of 1.60s, getting monster search: https://job-openings.monster.com/senior-full-stack-engineer-python-java-react-austin-tx-us-cybercoders/219414185
+INFO:root:delay of 1.80s, getting monster search: https://job-openings.monster.com/devops-engineer-austin-tx-us-tasacom/219470889
+INFO:root:delay of 2.00s, getting monster search: https://job-openings.monster.com/sr-software-engineer-gcp-google-cloud-platform-us-synthesis-systems/218995191
+INFO:root:delay of 2.20s, getting monster search: https://job-openings.monster.com/devops-austin-tx-us-oliphant-usa/218940871
+INFO:root:delay of 2.40s, getting monster search: https://job-openings.monster.com/integration-lead-san-antonio-tx-us-prism-it-corporation/219522578
+INFO:root:delay of 2.60s, getting monster search: https://job-openings.monster.com/validation-engineer-austin-tx-us-ust-global-inc/219227082
+INFO:root:delay of 2.80s, getting monster search: https://job-openings.monster.com/site-reliability-engineer-at-austin-tx-austin-tx-us-wipro-limited/219440572
+INFO:root:delay of 3.00s, getting monster search: https://job-openings.monster.com/linux-hardware-technician-austin-tx-us-scadea-solutions/216673597
+INFO:root:delay of 3.20s, getting monster search: https://job-openings.monster.com/technical-architect-austin-tx-us-gaddis-partners-dba-t3/219118334
+INFO:root:delay of 3.40s, getting monster search: https://job-openings.monster.com/data-modeler-san-antonio-tx-us-millennium-group/219116469
+INFO:root:delay of 3.60s, getting monster search: https://job-openings.monster.com/senior-golang-software-engineer-austin-tx-up-to-180k-austin-tx-us-oscar-associates-limited-us/219478133
+INFO:root:delay of 3.80s, getting monster search: https://job-openings.monster.com/l1-technical-support-austin-tx-us-spiceorb/218973733
+INFO:root:delay of 4.00s, getting monster search: https://job-openings.monster.com/senior-manager-application-strategy-spectrum-enterprise-west-austin-neighborhood-group-us-spectrum/e1880cd7-9ec5-4b1c-b9fe-98cf1e8600b8
+INFO:root:delay of 4.20s, getting monster search: https://job-openings.monster.com/post-silicon-validation-engineer-austin-tx-us-l-t-technology-services/219289369
+INFO:root:delay of 4.40s, getting monster search: https://job-openings.monster.com/technical-support-engineer-e-commerce-web-application-infrastructure-cloud-lamp-stack-austin-tx-us-intelliswift-software/219424989
+INFO:root:delay of 4.60s, getting monster search: https://job-openings.monster.com/system-administrator-4-austin-tx-us-talentburst-inc/219421489
+INFO:root:delay of 4.80s, getting monster search: https://job-openings.monster.com/senior-front-end-engineer-austin-tx-us-collabera/219240033
+INFO:root:delay of 5.00s, getting monster search: https://job-openings.monster.com/devops-engineer-austin-tx-us-jobot/219056684
+INFO:root:jobmarket glassdoor to pickle running @ 2020-08-14
+ERROR:root:failed to scrape GlassDoor: 'NoneType' object has no attribute 'text'
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:Found and removed 2 re-posts/duplicates via TFIDF cosine similarity!
+INFO:root:no masterlist detected, added 25 jobs to search\master_list.csv
+INFO:root:done. see un-archived jobs in search\master_list.csv
+INFO:root:jobmarket initialized at 2020-08-14
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+INFO:root:Found 2503 indeed results for query=Python
+INFO:root:getting indeed page 0 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=0
+INFO:root:getting indeed page 1 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=50
+INFO:root:getting indeed page 2 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=100
+INFO:root:getting indeed page 3 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=150
+INFO:root:getting indeed page 4 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=200
+INFO:root:getting indeed page 5 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=250
+INFO:root:getting indeed page 6 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=300
+INFO:root:getting indeed page 7 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=350
+INFO:root:getting indeed page 8 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=400
+INFO:root:getting indeed page 9 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=450
+INFO:root:getting indeed page 10 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=500
+INFO:root:getting indeed page 11 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=550
+INFO:root:getting indeed page 12 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=600
+INFO:root:getting indeed page 13 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=650
+INFO:root:getting indeed page 14 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=700
+INFO:root:getting indeed page 15 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=750
+INFO:root:getting indeed page 16 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=800
+INFO:root:getting indeed page 17 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=850
+INFO:root:getting indeed page 18 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=900
+INFO:root:getting indeed page 19 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=950
+INFO:root:getting indeed page 20 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1000
+INFO:root:getting indeed page 21 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1050
+INFO:root:getting indeed page 22 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1100
+INFO:root:getting indeed page 23 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1150
+INFO:root:getting indeed page 24 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1200
+INFO:root:getting indeed page 25 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1250
+INFO:root:getting indeed page 26 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1300
+INFO:root:getting indeed page 27 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1350
+INFO:root:getting indeed page 28 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1400
+INFO:root:getting indeed page 29 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1450
+INFO:root:getting indeed page 30 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1500
+INFO:root:getting indeed page 31 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1550
+INFO:root:getting indeed page 32 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1600
+INFO:root:getting indeed page 33 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1650
+INFO:root:getting indeed page 34 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1700
+INFO:root:getting indeed page 36 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1800
+INFO:root:getting indeed page 35 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1750
+INFO:root:getting indeed page 37 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1850
+INFO:root:getting indeed page 38 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1900
+INFO:root:getting indeed page 39 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=1950
+INFO:root:getting indeed page 40 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2000
+INFO:root:getting indeed page 41 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2050
+INFO:root:getting indeed page 42 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2100
+INFO:root:getting indeed page 43 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2150
+INFO:root:getting indeed page 44 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2200
+INFO:root:getting indeed page 45 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2250
+INFO:root:getting indeed page 46 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2300
+INFO:root:getting indeed page 47 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2350
+INFO:root:getting indeed page 48 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2400
+INFO:root:getting indeed page 49 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2450
+INFO:root:getting indeed page 50 : http://www.indeed.com/jobs?q=Python&l=los angeles%2C+CA&radius=100&limit=50&filter=0&start=2500
+INFO:root:found 0 unique job ids and 1 duplicates from indeed
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting indeed search: 
+INFO:root:jobfunnel monster to pickle running @ 2020-08-14
+INFO:root:Found 1330 monster results for query=Python
+INFO:root:getting monster pages 1 to 54 : https://www.monster.com/jobs/search/?q=Python&where=los angeles__2C-CA&intcid=skr_navigation_nhpso_searchMain&rad=100&where=los angeles__2c-CA&start=54
+INFO:root:found 25 unique job ids and 0 duplicates from monster
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting monster search: https://job-openings.monster.com/software-engineer-python-django-sql-chino-ca-us-cybercoders/219435934
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/data-engineer-aws-python-pyspark-ofallon-mo-carlsbad-ca-us-epik-solutions/219505902
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-python-django-engineer-los-angeles-ca-us-jobot/219238240
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/lead-algorithm-engineer-opencv-image-processing-python-c-irvine-ca-us-cybercoders/219435952
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/remote-senior-software-engineer-c-sql-python-orange-ca-us-jobot/219048237
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/qa-python-engineer-san-diego-ca-us-proven-recruiting/219351111
+INFO:root:delay of 1.20s, getting monster search: https://job-openings.monster.com/back-end-developer-java-python-node-js-santa-monica-ca-us-cybercoders/219414392
+INFO:root:delay of 1.40s, getting monster search: https://job-openings.monster.com/python-x-operator-anaheim-ca-us-cybercoders/219436210
+INFO:root:delay of 1.60s, getting monster search: https://job-openings.monster.com/music-content-strategist-culver-city-ca-us-introlligent-inc/219171982
+INFO:root:delay of 1.80s, getting monster search: https://job-openings.monster.com/sr-sql-dba-developer-san-diego-ca-us-tech-mahindra-limited/219530261
+INFO:root:delay of 2.00s, getting monster search: https://job-openings.monster.com/business-analyst-irvine-ca-us-innova/219455774
+INFO:root:delay of 2.20s, getting monster search: https://job-openings.monster.com/business-data-analyst-fontana-ca-us-new-classic-home-furnishing-inc/219406831
+INFO:root:delay of 2.40s, getting monster search: https://job-openings.monster.com/cloud-engineer-san-diego-ca-us-confidential/219272252
+INFO:root:delay of 2.60s, getting monster search: https://job-openings.monster.com/marketing-science-analyst-los-angeles-ca-us-solomon-page/219076677
+INFO:root:delay of 2.80s, getting monster search: https://job-openings.monster.com/uipath-consultant-full-time-irvine-california-irvine-ca-us-speridian-technologies-llc/219072125
+INFO:root:delay of 3.00s, getting monster search: https://job-openings.monster.com/digital-senior-software-engineer-los-angeles-metro-area-ca-us-beacon-hill-staffing-group-llc/219524449
+INFO:root:delay of 3.20s, getting monster search: https://job-openings.monster.com/devops-engineer-los-angeles-ca-us-onebridge/219254624
+INFO:root:delay of 3.40s, getting monster search: https://job-openings.monster.com/platform-publisher-music-culver-city-ca-us-walkwaters-technologies/219428902
+INFO:root:delay of 3.60s, getting monster search: https://job-openings.monster.com/sr-business-intelligence-analyst-pasadena-ca-us-wescom-central-credit-union/219126497
+INFO:root:delay of 3.80s, getting monster search: https://job-openings.monster.com/data-engineer-spark-culver-city-ca-us-virtusa/216577144
+INFO:root:delay of 4.00s, getting monster search: https://job-openings.monster.com/embedded-software-engineer-san-diego-ca-us-ausgar-technologies-inc/219499001
+INFO:root:delay of 4.20s, getting monster search: https://job-openings.monster.com/application-engineer-ii-irvine-ca-us-ansys/c2827931-2202-4cf8-ad27-2f58c7f439ec
+INFO:root:delay of 4.40s, getting monster search: https://job-openings.monster.com/control-systems-modeling-simulation-engineer-lvl-3-port-hueneme-ca-us-goldbelt-inc/219522617
+INFO:root:delay of 4.60s, getting monster search: https://job-openings.monster.com/senior-lead-scientific-software-programmer-san-diego-ca-us-vertex-pharmaceuticals-inc-us/e92f543d-fa9e-4aa1-abc9-28375abbd0a6
+INFO:root:delay of 4.80s, getting monster search: https://job-openings.monster.com/data-engineer-remote-irvine-ca-us-insight-enterprises-inc/7da64b0a-c96c-4b46-8536-5ed31d079f4a
+INFO:root:jobmarket glassdoor to pickle running @ 2020-08-14
+ERROR:root:failed to scrape GlassDoor: 'NoneType' object has no attribute 'text'
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:Found and removed 0 re-posts/duplicates via TFIDF cosine similarity!
+INFO:root:found 24 unique listings and 1 duplicates via TFIDF cosine similarity
+INFO:root:done. see un-archived jobs in search\master_list.csv
+INFO:root:jobmarket initialized at 2020-08-14
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+INFO:root:Found 2999 indeed results for query=Python
+INFO:root:getting indeed page 0 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=0
+INFO:root:getting indeed page 1 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=50
+INFO:root:getting indeed page 2 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=100
+INFO:root:getting indeed page 3 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=150
+INFO:root:getting indeed page 4 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=200
+INFO:root:getting indeed page 5 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=250
+INFO:root:getting indeed page 6 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=300
+INFO:root:getting indeed page 7 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=350
+INFO:root:getting indeed page 8 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=400
+INFO:root:getting indeed page 9 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=450
+INFO:root:getting indeed page 10 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=500
+INFO:root:getting indeed page 11 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=550
+INFO:root:getting indeed page 12 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=600
+INFO:root:getting indeed page 13 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=650
+INFO:root:getting indeed page 14 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=700
+INFO:root:getting indeed page 15 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=750
+INFO:root:getting indeed page 16 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=800
+INFO:root:getting indeed page 17 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=850
+INFO:root:getting indeed page 18 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=900
+INFO:root:getting indeed page 19 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=950
+INFO:root:getting indeed page 20 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1000
+INFO:root:getting indeed page 21 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1050
+INFO:root:getting indeed page 22 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1100
+INFO:root:getting indeed page 23 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1150
+INFO:root:getting indeed page 24 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1200
+INFO:root:getting indeed page 25 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1250
+INFO:root:getting indeed page 26 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1300
+INFO:root:getting indeed page 27 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1350
+INFO:root:getting indeed page 28 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1400
+INFO:root:getting indeed page 29 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1450
+INFO:root:getting indeed page 30 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1500
+INFO:root:getting indeed page 31 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1550
+INFO:root:getting indeed page 32 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1600
+INFO:root:getting indeed page 33 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1650
+INFO:root:getting indeed page 34 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1700
+INFO:root:getting indeed page 35 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1750
+INFO:root:getting indeed page 36 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1800
+INFO:root:getting indeed page 37 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1850
+INFO:root:getting indeed page 38 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1900
+INFO:root:getting indeed page 39 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=1950
+INFO:root:getting indeed page 40 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2000
+INFO:root:getting indeed page 41 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2050
+INFO:root:getting indeed page 42 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2100
+INFO:root:getting indeed page 43 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2150
+INFO:root:getting indeed page 44 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2200
+INFO:root:getting indeed page 45 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2250
+INFO:root:getting indeed page 46 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2300
+INFO:root:getting indeed page 47 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2350
+INFO:root:getting indeed page 48 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2400
+INFO:root:getting indeed page 49 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2450
+INFO:root:getting indeed page 50 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2500
+INFO:root:getting indeed page 51 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2550
+INFO:root:getting indeed page 52 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2600
+INFO:root:getting indeed page 53 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2650
+INFO:root:getting indeed page 54 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2700
+INFO:root:getting indeed page 55 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2750
+INFO:root:getting indeed page 56 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2800
+INFO:root:getting indeed page 57 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2850
+INFO:root:getting indeed page 58 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2900
+INFO:root:getting indeed page 59 : http://www.indeed.com/jobs?q=Python&l=Boston%2C+MA&radius=100&limit=50&filter=0&start=2950
+INFO:root:found 0 unique job ids and 1 duplicates from indeed
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting indeed search: 
+INFO:root:jobfunnel monster to pickle running @ 2020-08-14
+INFO:root:Found 1527 monster results for query=Python
+INFO:root:getting monster pages 1 to 62 : https://www.monster.com/jobs/search/?q=Python&where=Boston__2C-MA&intcid=skr_navigation_nhpso_searchMain&rad=100&where=Boston__2c-MA&start=62
+INFO:root:found 26 unique job ids and 0 duplicates from monster
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting monster search: https://job-openings.monster.com/senior-full-stack-angular-python-developer-wellesley-ma-us-cybercoders/219514202
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/software-engineer-w-python-3-cambridge-ma-us-the-judge-group/219145633
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-backend-data-engineer-python-spark-boston-ma-us-winterwyman/219435075
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/mid-level-software-engineer-c-c-python-linux-remote-rochester-nh-us-cybercoders/219414401
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/mid-sr-python-data-engineer-boston-ma-us-winterwyman/219009904
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/autonomous-ground-vehicles-software-engineer-lexington-ma-us-odyssey-systems-consulting-group/d562f534-0e23-4a23-967b-e21e7bdecaa4
+INFO:root:delay of 1.20s, getting monster search: https://job-openings.monster.com/senior-software-engineer-150k-boston-ma-us-nigel-frank-international/219474855
+INFO:root:delay of 1.40s, getting monster search: https://job-openings.monster.com/senior-or-principal-scientist-cadd-ai-application-specialist-boston-ma-us-ucb/219406993
+INFO:root:delay of 1.60s, getting monster search: https://job-openings.monster.com/senior-associate-fraud-risk-boston-ma-us-santander-bank-north-america/219272468
+INFO:root:delay of 1.80s, getting monster search: https://job-openings.monster.com/marketing-advanced-analytics-specialist-waltham-ma-us-mckinsey-co/219409446
+INFO:root:delay of 2.00s, getting monster search: https://job-openings.monster.com/data-engineer-us-psr-associates/219152259
+INFO:root:delay of 2.20s, getting monster search: https://job-openings.monster.com/sr-research-support-associate-cambridge-ma-us-mit-koch-institute-for-integrative-cancer-research/218964764
+INFO:root:delay of 2.40s, getting monster search: https://job-openings.monster.com/bi-solutions-engineer-boston-ma-us-fidelity-talentsource/ffba056d-01b0-4484-a81a-34089b1ee5ad
+INFO:root:delay of 2.60s, getting monster search: https://job-openings.monster.com/software-engineer-return-to-work-program-smithfield-ri-us-reachire/218964660
+INFO:root:delay of 2.80s, getting monster search: https://job-openings.monster.com/sr-systems-engineer-ii-roxbury-ma-us-rtx/66a88434-9caf-41ac-a89f-c00971e8c010
+INFO:root:delay of 3.00s, getting monster search: https://job-openings.monster.com/software-engineer-lead-technical-manager-andover-ma-us-infineon-technologies-americas-corp/219100115
+INFO:root:delay of 3.20s, getting monster search: https://job-openings.monster.com/software-test-engineer-carlisle-ma-us-assurance-technology-corporation/214029973
+INFO:root:delay of 3.40s, getting monster search: https://job-openings.monster.com/aws-security-devops-engineer-boston-ma-us-kapitan-technologies/219428102
+INFO:root:delay of 3.60s, getting monster search: https://job-openings.monster.com/senior-scientific-developer-cheminformatics-boston-ma-us-vertex-pharmaceuticals-inc-us/8d8f7aa1-7f94-401f-a37e-c234301014b7
+INFO:root:delay of 3.80s, getting monster search: https://job-openings.monster.com/software-engineer-cloud-platforms-architect-mm10606837-boston-ma-us-adpi-llc/218993867
+INFO:root:delay of 4.00s, getting monster search: https://job-openings.monster.com/security-operations-center-manager-hartford-ct-us/219428095
+INFO:root:delay of 4.20s, getting monster search: https://job-openings.monster.com/sql-server-developer-with-ssis-aws-farmington-ct-us-vertex-solutions-inc/218991189
+INFO:root:delay of 4.40s, getting monster search: https://job-openings.monster.com/system-admin-linux-windows-boston-ma-us-cognizant/219425097
+INFO:root:delay of 4.60s, getting monster search: https://job-openings.monster.com/senior-design-engineer-haverhill-ma-us-lumina-power-inc/219165214
+INFO:root:delay of 4.80s, getting monster search: https://job-openings.monster.com/software-engineer-boston-ma-us-the-panther-group/219522213
+INFO:root:delay of 5.00s, getting monster search: https://job-openings.monster.com/test-engineer-waltham-ma-us-davis-companies/219323784
+INFO:root:jobmarket glassdoor to pickle running @ 2020-08-14
+ERROR:root:failed to scrape GlassDoor: 'NoneType' object has no attribute 'text'
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:Found and removed 0 re-posts/duplicates via TFIDF cosine similarity!
+INFO:root:found 26 unique listings and 0 duplicates via TFIDF cosine similarity
+INFO:root:done. see un-archived jobs in search\master_list.csv
+INFO:root:jobmarket initialized at 2020-08-14
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+INFO:root:Found 5250 indeed results for query=Python
+INFO:root:getting indeed page 0 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=0
+INFO:root:getting indeed page 1 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=50
+INFO:root:getting indeed page 2 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=100
+INFO:root:getting indeed page 3 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=150
+INFO:root:getting indeed page 4 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=200
+INFO:root:getting indeed page 5 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=250
+INFO:root:getting indeed page 6 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=300
+INFO:root:getting indeed page 7 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=350
+INFO:root:getting indeed page 8 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=400
+INFO:root:getting indeed page 9 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=450
+INFO:root:getting indeed page 10 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=500
+INFO:root:getting indeed page 11 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=550
+INFO:root:getting indeed page 12 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=600
+INFO:root:getting indeed page 13 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=650
+INFO:root:getting indeed page 14 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=700
+INFO:root:getting indeed page 15 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=750
+INFO:root:getting indeed page 16 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=800
+INFO:root:getting indeed page 17 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=850
+INFO:root:getting indeed page 18 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=900
+INFO:root:getting indeed page 19 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=950
+INFO:root:getting indeed page 20 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1000
+INFO:root:getting indeed page 21 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1050
+INFO:root:getting indeed page 22 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1100
+INFO:root:getting indeed page 23 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1150
+INFO:root:getting indeed page 24 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1200
+INFO:root:getting indeed page 25 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1250
+INFO:root:getting indeed page 26 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1300
+INFO:root:getting indeed page 27 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1350
+INFO:root:getting indeed page 28 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1400
+INFO:root:getting indeed page 29 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1450
+INFO:root:getting indeed page 30 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1500
+INFO:root:getting indeed page 31 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1550
+INFO:root:getting indeed page 32 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1600
+INFO:root:getting indeed page 33 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1650
+INFO:root:getting indeed page 34 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1700
+INFO:root:getting indeed page 35 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1750
+INFO:root:getting indeed page 36 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1800
+INFO:root:getting indeed page 37 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1850
+INFO:root:getting indeed page 38 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1900
+INFO:root:getting indeed page 39 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=1950
+INFO:root:getting indeed page 40 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2000
+INFO:root:getting indeed page 41 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2050
+INFO:root:getting indeed page 42 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2100
+INFO:root:getting indeed page 43 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2150
+INFO:root:getting indeed page 44 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2200
+INFO:root:getting indeed page 45 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2250
+INFO:root:getting indeed page 46 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2300
+INFO:root:getting indeed page 47 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2350
+INFO:root:getting indeed page 48 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2400
+INFO:root:getting indeed page 49 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2450
+INFO:root:getting indeed page 50 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2500
+INFO:root:getting indeed page 51 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2550
+INFO:root:getting indeed page 52 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2600
+INFO:root:getting indeed page 53 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2650
+INFO:root:getting indeed page 54 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2700
+INFO:root:getting indeed page 55 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2750
+INFO:root:getting indeed page 56 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2800
+INFO:root:getting indeed page 57 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2850
+INFO:root:getting indeed page 58 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2900
+INFO:root:getting indeed page 59 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=2950
+INFO:root:getting indeed page 60 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3000
+INFO:root:getting indeed page 61 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3050
+INFO:root:getting indeed page 62 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3100
+INFO:root:getting indeed page 63 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3150
+INFO:root:getting indeed page 64 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3200
+INFO:root:getting indeed page 65 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3250
+INFO:root:getting indeed page 66 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3300
+INFO:root:getting indeed page 67 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3350
+INFO:root:getting indeed page 68 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3400
+INFO:root:getting indeed page 69 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3450
+INFO:root:getting indeed page 70 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3500
+INFO:root:getting indeed page 71 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3550
+INFO:root:getting indeed page 72 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3600
+INFO:root:getting indeed page 73 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3650
+INFO:root:getting indeed page 74 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3700
+INFO:root:getting indeed page 75 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3750
+INFO:root:getting indeed page 76 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3800
+INFO:root:getting indeed page 77 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3850
+INFO:root:getting indeed page 78 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3900
+INFO:root:getting indeed page 79 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=3950
+INFO:root:getting indeed page 80 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4000
+INFO:root:getting indeed page 81 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4050
+INFO:root:getting indeed page 82 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4100
+INFO:root:getting indeed page 83 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4150
+INFO:root:getting indeed page 84 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4200
+INFO:root:getting indeed page 85 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4250
+INFO:root:getting indeed page 86 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4300
+INFO:root:getting indeed page 87 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4350
+INFO:root:getting indeed page 88 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4400
+INFO:root:getting indeed page 89 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4450
+INFO:root:getting indeed page 90 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4500
+INFO:root:getting indeed page 91 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4550
+INFO:root:getting indeed page 92 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4600
+INFO:root:getting indeed page 93 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4650
+INFO:root:getting indeed page 94 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4700
+INFO:root:getting indeed page 95 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4750
+INFO:root:getting indeed page 96 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4800
+INFO:root:getting indeed page 97 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4850
+INFO:root:getting indeed page 98 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4900
+INFO:root:getting indeed page 99 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=4950
+INFO:root:getting indeed page 100 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=5000
+INFO:root:getting indeed page 101 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=5050
+INFO:root:getting indeed page 102 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=5100
+INFO:root:getting indeed page 103 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=5150
+INFO:root:getting indeed page 104 : http://www.indeed.com/jobs?q=Python&l=NewYork%2C+NY&radius=100&limit=50&filter=0&start=5200
+INFO:root:found 0 unique job ids and 1 duplicates from indeed
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting indeed search: 
+INFO:root:jobfunnel monster to pickle running @ 2020-08-14
+INFO:root:Found 1996 monster results for query=Python
+INFO:root:getting monster pages 1 to 80 : https://www.monster.com/jobs/search/?q=Python&where=NewYork__2C-NY&intcid=skr_navigation_nhpso_searchMain&rad=100&where=NewYork__2c-NY&start=80
+INFO:root:found 26 unique job ids and 0 duplicates from monster
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting monster search: https://job-openings.monster.com/remote-sr-python-developer-django-new-york-ny-us-cybercoders/219492875
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-developer-6-month-right-to-hire-brooklyn-ny-us-contech-systems-inc/219224460
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-senior-developer-manhattan-ny-us-telligentech/219451796
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-developer-financial-services-new-york-ny-us-amadan-recruitment/219050997
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-architect-developer-new-york-city-ny-us-synechron/218947433
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-open-systems-technologies/219215068
+INFO:root:delay of 1.20s, getting monster search: https://job-openings.monster.com/robotics-software-engineer-c-python-webster-ny-us-comrise/219368523
+INFO:root:delay of 1.40s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-eliassen-group/219479617
+INFO:root:delay of 1.60s, getting monster search: https://job-openings.monster.com/c-python-c-git-cmake-new-york-city-ny-us-pri-technology/219471424
+INFO:root:delay of 1.80s, getting monster search: https://job-openings.monster.com/senior-python-developer-new-york-ny-us-jobot/219315656
+INFO:root:delay of 2.00s, getting monster search: https://job-openings.monster.com/tools-developer-python-applications-development-for-global-device-company-located-in-sunnyvale-ca-sunnyvale-ca-us-osi-engineering/216109217
+INFO:root:delay of 2.20s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-genesis10/218948889
+INFO:root:delay of 2.40s, getting monster search: https://job-openings.monster.com/python-developer-trading-systems-new-york-ny-us-randstad-technologies/219162443
+INFO:root:delay of 2.60s, getting monster search: https://job-openings.monster.com/perm-sr-full-stack-engineer-platform-interfaces-python-java-new-york-ny-us-winterwyman/219512655
+INFO:root:delay of 2.80s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-collabera/219472639
+INFO:root:delay of 3.00s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-suntechpros-inc/219439294
+INFO:root:delay of 3.20s, getting monster search: https://job-openings.monster.com/remote-security-engineer-python-new-york-ny-us-hays/219384044
+INFO:root:delay of 3.40s, getting monster search: https://job-openings.monster.com/data-warehouse-developer-informatica-etl-aws-python-remote-ny-us-genuent/219048117
+INFO:root:delay of 3.60s, getting monster search: https://job-openings.monster.com/python-support-engineer-new-york-ny-us-apex-systems/219202200
+INFO:root:delay of 3.80s, getting monster search: https://job-openings.monster.com/python-developer-new-york-city-ny-us-data-inc/219218731
+INFO:root:delay of 4.00s, getting monster search: https://job-openings.monster.com/remote-sr-python-developer-django-new-york-ny-us-cybercoders/219353179
+INFO:root:delay of 4.20s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-open-systems-technologies/219214784
+INFO:root:delay of 4.40s, getting monster search: https://job-openings.monster.com/python-developer-manhattan-ny-us-synechron/218992151
+INFO:root:delay of 4.60s, getting monster search: https://job-openings.monster.com/remote-python-developer-new-york-ny-us-eliassen-group/219434417
+INFO:root:delay of 4.80s, getting monster search: https://job-openings.monster.com/senior-python-django-engineer-syracuse-ny-us-jobot/219238234
+INFO:root:delay of 5.00s, getting monster search: https://job-openings.monster.com/python-developer-new-york-ny-us-randstad-technologies/219025562
+INFO:root:jobmarket glassdoor to pickle running @ 2020-08-14
+ERROR:root:failed to scrape GlassDoor: 'NoneType' object has no attribute 'text'
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:Found and removed 0 re-posts/duplicates via TFIDF cosine similarity!
+INFO:root:found 24 unique listings and 2 duplicates via TFIDF cosine similarity
+INFO:root:done. see un-archived jobs in search\master_list.csv
+INFO:root:jobmarket initialized at 2020-08-14
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+ERROR:root:failed to scrape Indeed: 'NoneType' object has no attribute 'contents'
+INFO:root:jobfunnel monster to pickle running @ 2020-08-14
+INFO:root:Found 4499 monster results for query=Python
+INFO:root:getting monster pages 1 to 180 : https://www.monster.com/jobs/search/?q=Python&where=sanfrancisco__2C-CA&intcid=skr_navigation_nhpso_searchMain&rad=100&where=sanfrancisco__2c-CA&start=180
+INFO:root:found 20 unique job ids and 6 duplicates from monster
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting monster search: https://job-openings.monster.com/python-software-systems-development-engineer-santa-clara-ca-us-osi-engineering/218498776
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-automation-engineer-mountain-view-ca-us-tech-mahindra-limited/219500268
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-python-django-engineer-los-angeles-ca-us-jobot/219238240
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-python-developer-san-diego-ca-us-epsilon/15ecb6e3-a960-40f1-b8b0-55888958977b
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/6140-senior-automation-test-engineer-python-redwood-city-ca-us-qualitest/219170720
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/sr-software-engineer-full-stack-ruby-python-java-san-jose-ca-us-harvey-nash-inc/219219607
+INFO:root:delay of 1.20s, getting monster search: https://job-openings.monster.com/python-developer-sunnyvale-ca-us-intelliswift-software/219426776
+INFO:root:delay of 1.40s, getting monster search: https://job-openings.monster.com/python-developer-san-francisco-ca-us-info-objects/219390707
+INFO:root:delay of 1.60s, getting monster search: https://job-openings.monster.com/applied-scientist-seattle-wa-us-amazon-corporate-llc/219040164
+INFO:root:delay of 1.80s, getting monster search: https://job-openings.monster.com/web-developer-php-python-menlo-park-ca-us-iconma/218949411
+INFO:root:delay of 2.00s, getting monster search: https://job-openings.monster.com/software-engineer-ii-python-development-mountain-view-ca-us-aic/219081698
+INFO:root:delay of 2.20s, getting monster search: https://job-openings.monster.com/linux-mac-system-administrator-2-6-years-with-decent-scripting-shell-bash-or-python-santa-clara-ca-us-osi-engineering/213017527
+INFO:root:delay of 2.40s, getting monster search: https://job-openings.monster.com/senior-backend-engineer-restful-sql-python-south-san-francisco-ca-us-cybercoders/219435835
+INFO:root:delay of 2.60s, getting monster search: https://job-openings.monster.com/senior-python-django-engineer-san-francisco-ca-us-jobot/219238237
+INFO:root:delay of 2.80s, getting monster search: https://job-openings.monster.com/senior-python-developer-newark-ca-us-cybercoders/219414133
+INFO:root:delay of 3.00s, getting monster search: https://job-openings.monster.com/web-services-internal-applications-engineer-node-js-python-ruby-san-jose-ca-us-osi-engineering/217651312
+INFO:root:delay of 3.20s, getting monster search: https://job-openings.monster.com/python-2d-3d-data-annotators-for-the-worlds-largest-consumer-device-company-in-sunnyvale-ca-sunnyvale-ca-us-osi-engineering/212809418
+INFO:root:delay of 3.40s, getting monster search: https://job-openings.monster.com/cloud-application-developer-java-python-kafka-san-bruno-ca-us-cybercoders/219492769
+INFO:root:delay of 3.60s, getting monster search: https://job-openings.monster.com/build-engineer-jenkins-git-python-mountain-view-ca-us-osi-engineering/195548054
+INFO:root:delay of 3.80s, getting monster search: https://job-openings.monster.com/vp-of-ai-management-ml-python-pleasanton-ca-us-cybercoders/219435902
+INFO:root:jobmarket glassdoor to pickle running @ 2020-08-14
+ERROR:root:failed to scrape GlassDoor: 'NoneType' object has no attribute 'text'
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:Found and removed 1 re-posts/duplicates via TFIDF cosine similarity!
+INFO:root:found 18 unique listings and 2 duplicates via TFIDF cosine similarity
+INFO:root:done. see un-archived jobs in search\master_list.csv
+INFO:root:jobmarket initialized at 2020-08-14
+INFO:root:jobmarket indeed to pickle running @ 2020-08-14
+INFO:root:Found 3482 indeed results for query=Python
+INFO:root:getting indeed page 0 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=0
+INFO:root:getting indeed page 1 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=50
+INFO:root:getting indeed page 2 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=100
+INFO:root:getting indeed page 3 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=150
+INFO:root:getting indeed page 4 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=200
+INFO:root:getting indeed page 5 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=250
+INFO:root:getting indeed page 6 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=300
+INFO:root:getting indeed page 7 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=350
+INFO:root:getting indeed page 8 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=400
+INFO:root:getting indeed page 9 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=450
+INFO:root:getting indeed page 10 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=500
+INFO:root:getting indeed page 11 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=550
+INFO:root:getting indeed page 12 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=600
+INFO:root:getting indeed page 13 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=650
+INFO:root:getting indeed page 14 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=700
+INFO:root:getting indeed page 15 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=750
+INFO:root:getting indeed page 16 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=800
+INFO:root:getting indeed page 17 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=850
+INFO:root:getting indeed page 18 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=900
+INFO:root:getting indeed page 19 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=950
+INFO:root:getting indeed page 20 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1000
+INFO:root:getting indeed page 21 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1050
+INFO:root:getting indeed page 22 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1100
+INFO:root:getting indeed page 23 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1150
+INFO:root:getting indeed page 24 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1200
+INFO:root:getting indeed page 25 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1250
+INFO:root:getting indeed page 26 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1300
+INFO:root:getting indeed page 27 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1350
+INFO:root:getting indeed page 28 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1400
+INFO:root:getting indeed page 29 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1450
+INFO:root:getting indeed page 30 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1500
+INFO:root:getting indeed page 31 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1550
+INFO:root:getting indeed page 32 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1600
+INFO:root:getting indeed page 33 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1650
+INFO:root:getting indeed page 34 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1700
+INFO:root:getting indeed page 35 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1750
+INFO:root:getting indeed page 36 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1800
+INFO:root:getting indeed page 37 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1850
+INFO:root:getting indeed page 38 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1900
+INFO:root:getting indeed page 39 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=1950
+INFO:root:getting indeed page 40 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2000
+INFO:root:getting indeed page 41 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2050
+INFO:root:getting indeed page 42 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2100
+INFO:root:getting indeed page 43 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2150
+INFO:root:getting indeed page 44 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2200
+INFO:root:getting indeed page 45 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2250
+INFO:root:getting indeed page 46 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2300
+INFO:root:getting indeed page 47 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2350
+INFO:root:getting indeed page 48 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2400
+INFO:root:getting indeed page 49 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2450
+INFO:root:getting indeed page 50 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2500
+INFO:root:getting indeed page 51 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2550
+INFO:root:getting indeed page 52 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2600
+INFO:root:getting indeed page 53 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2650
+INFO:root:getting indeed page 54 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2700
+INFO:root:getting indeed page 55 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2750
+INFO:root:getting indeed page 56 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2800
+INFO:root:getting indeed page 57 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2850
+INFO:root:getting indeed page 58 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2900
+INFO:root:getting indeed page 59 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=2950
+INFO:root:getting indeed page 60 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3000
+INFO:root:getting indeed page 61 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3050
+INFO:root:getting indeed page 62 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3100
+INFO:root:getting indeed page 63 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3150
+INFO:root:getting indeed page 64 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3200
+INFO:root:getting indeed page 65 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3250
+INFO:root:getting indeed page 66 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3300
+INFO:root:getting indeed page 67 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3350
+INFO:root:getting indeed page 68 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3400
+INFO:root:getting indeed page 69 : http://www.indeed.com/jobs?q=Python&l=seattle%2C+wa&radius=100&limit=50&filter=0&start=3450
+INFO:root:found 0 unique job ids and 1 duplicates from indeed
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting indeed search: 
+INFO:root:jobfunnel monster to pickle running @ 2020-08-14
+INFO:root:Found 1938 monster results for query=Python
+INFO:root:getting monster pages 1 to 78 : https://www.monster.com/jobs/search/?q=Python&where=seattle__2C-wa&intcid=skr_navigation_nhpso_searchMain&rad=100&where=seattle__2c-wa&start=78
+INFO:root:found 26 unique job ids and 0 duplicates from monster
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:delay of 0.00s, getting monster search: https://job-openings.monster.com/senior-sre-devops-python-c-c-linux-docker-kubernetes-seattle-wa-us-cybercoders/219435909
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-full-stack-python-developer-redmond-wa-us/219101283
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/python-aws-developer-seattle-wa-us-randstad-technologies/219296081
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/all-levels-backend-developer-python-aws-bellevue-wa-us-jobot/219318583
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/senior-data-warehouse-engineer-open-source-python-cloud-bellevue-wa-us-cybercoders/219514619
+INFO:root:delay of 1.00s, getting monster search: https://job-openings.monster.com/all-levels-backend-developer-python-aws-seattle-wa-us-jobot/219318580
+INFO:root:delay of 1.20s, getting monster search: https://job-openings.monster.com/senior-data-warehouse-engineer-open-source-python-cloud-bellevue-wa-us-cybercoders/219514597
+INFO:root:delay of 1.40s, getting monster search: https://job-openings.monster.com/senior-vfx-artist-seattle-wa-us-wildcard-properties-llc/219233016
+INFO:root:delay of 1.60s, getting monster search: https://job-openings.monster.com/net-full-stack-developer-redmond-wa-us-tasacom/219344794
+INFO:root:delay of 1.80s, getting monster search: https://job-openings.monster.com/technical-program-manager-seattle-wa-us-mainz-brady-group/218989520
+INFO:root:delay of 2.00s, getting monster search: https://job-openings.monster.com/machine-learning-engineer-plano-tx-us-mindtree-ltd/218674841
+INFO:root:delay of 2.20s, getting monster search: https://job-openings.monster.com/support-engineer-juanita-wa-us-allyis/219188514
+INFO:root:delay of 2.40s, getting monster search: https://job-openings.monster.com/system-engineer-–-lab-test-seattle-wa-us-gta/219194359
+INFO:root:delay of 2.60s, getting monster search: https://job-openings.monster.com/design-verification-engineer-redmond-wa-us-us-tech-solutions/219471199
+INFO:root:delay of 2.80s, getting monster search: https://job-openings.monster.com/rf-hardware-engineer-redmond-wa-us-zen3-infosolutions-america-inc/219447369
+INFO:root:delay of 3.00s, getting monster search: https://job-openings.monster.com/senior-software-engineer-ames-lake-wa-us-pactera-technologies/219298258
+INFO:root:delay of 3.20s, getting monster search: https://job-openings.monster.com/sdet-hardware-tester-redmond-wa-us-harman-connected-services-corporation-india-private-limited/219116062
+INFO:root:delay of 3.40s, getting monster search: https://job-openings.monster.com/sr-data-scientist-snoqualmie-wa-us-amazon-com-services-llc/ff5c1135-e4b8-488d-8fa4-582f6b849ae7
+INFO:root:delay of 3.60s, getting monster search: https://job-openings.monster.com/senior-technical-delivery-manager-kirkland-wa-us-ciber-global/219430848
+INFO:root:delay of 3.80s, getting monster search: https://job-openings.monster.com/lead-build-release-engineer-jenkins-gitlab-bellevue-wa-us-spiceorb/219152729
+INFO:root:delay of 4.00s, getting monster search: https://job-openings.monster.com/mapping-data-analyst-bothell-wa-us-cognizant/219257600
+INFO:root:delay of 4.20s, getting monster search: https://job-openings.monster.com/application-developer-redmond-wa-us-randstad-technologies/219344139
+INFO:root:delay of 4.40s, getting monster search: https://job-openings.monster.com/data-engineer-iii-seattle-wa-us-apex-systems/219266675
+INFO:root:delay of 4.60s, getting monster search: https://job-openings.monster.com/2405-software-development-engineer-igs-seatac-wa-us-the-judge-group/218985347
+INFO:root:delay of 4.80s, getting monster search: https://job-openings.monster.com/wallet-operations-engineer-seattle-wa-us-widenet-consulting/219501165
+INFO:root:delay of 5.00s, getting monster search: https://job-openings.monster.com/software-engineer-backend-scalable-services-seattle-wa-us-harvey-nash-inc/219219604
+INFO:root:jobmarket glassdoor to pickle running @ 2020-08-14
+ERROR:root:failed to scrape GlassDoor: 'NoneType' object has no attribute 'text'
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:removed 0 jobs present in filter-list
+INFO:root:removed 0 jobs in blacklist from master-list
+INFO:root:Found and removed 4 re-posts/duplicates via TFIDF cosine similarity!
+INFO:root:found 22 unique listings and 4 duplicates via TFIDF cosine similarity
+INFO:root:done. see un-archived jobs in search\master_list.csv
